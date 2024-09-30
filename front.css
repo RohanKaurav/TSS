@@ -1,0 +1,32 @@
+
+        li {
+            display:inline;
+            padding:20px;
+            text-align: center;
+            text-emphasis-color: rgb(0, 255, 47);
+        }
+        .lis{
+            text-color:red;
+        }
+        ul{
+            text-align: center;
+          
+        }
+        h1{
+            text-align:center;
+            color: aqua;
+        }
+        h3{
+            text-align: center;
+            color: azure;
+        }
+   body{
+     /* Adjust this to change the height of the background image */
+    
+    background-image: url('spic.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+   
+   }
